@@ -10,7 +10,6 @@
 - 🌈 **Clean Aesthetic:** UI inspired by real-world food delivery platforms  
 - 🧩 **Modular File Structure:** Easy to scale and customize  
 
-
 ## 🌍 Live Demo
 
 🚀 [Click here to try it live](https://your-live-link.netlify.app)  
