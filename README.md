@@ -4,7 +4,6 @@
 .
 ## ✨ Highlights
 
-
 - 🏠 **Landing Page:** Beautiful hero section, featured restaurants, and call-to-action  
 - 🔐 **Login & Sign-Up Pages:** Form validations with modern UI design  
 - 💻 **Responsive Layout:** Optimized for desktop, tablet, and mobile  
